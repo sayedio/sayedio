@@ -67,7 +67,7 @@
 <br/>
 
 <p align="center">
-  <img alt="pacman contribution animation" src="https://github.com/sayedio/SayedSheikh/blob/output/pacman-contribution-graph-dark.svg" />
+  <img alt="Contribution Aurora Wave" src="https://github.com/sayedio/SayedSheikh/blob/output/contribution-wave.svg" />
 </p>
 
-<!-- Pacman animation requires GitHub Actions workflow: generate-pacman.yml -->
+<!-- Custom animation requires GitHub Actions workflow: generate-contribution-wave.yml -->
