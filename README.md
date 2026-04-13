@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=700&speed=30&color=1d4ed8&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;JavaScript+Enthusiast;React+%26+Node.js+Builder;Open-Source+Contributor;CSE+Undergrad" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=80&speed=50&deleteSpeed=42&cursor=true&cursorChar=%E2%96%8C&cursorColor=60a5fa&repeat=true&color=1d4ed8&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;JavaScript+Enthusiast;React+%26+Node.js+Builder;Open-Source+Contributor;CSE+Undergrad&v=4" />
 </p>
 
 <!-- <p align="center">
@@ -27,6 +27,8 @@
   </a>
 </p>
 
+<br/>
+
 <p align="center">
   <img alt="Tech stack row 1" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap&perline=9" />
 </p>
@@ -39,6 +41,8 @@
   <img alt="Tech stack row 3" src="https://skillicons.dev/icons?i=aws,gcp,netlify,vercel,git,github,vscode,npm,linux,postman&perline=10" />
 </p>
 
+<br/>
+
 <p align="center">
   <img alt="React Ecosystem" src="https://img.shields.io/badge/React%20Ecosystem-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="REST API Design" src="https://img.shields.io/badge/REST%20API%20Design-0f766e?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -48,16 +52,22 @@
   <img alt="AI & LLM" src="https://img.shields.io/badge/AI%20%26%20LLM-1d4ed8?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
+<br/>
+
 <p align="center">
   <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=sayedio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
+
+<br/>
 
 <p align="center">
   <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sayedio&bg_color=0d1117&color=7aa2f7&line=2ac3de&point=bb9af7&area=true&hide_border=true" />
 </p>
 
+<br/>
+
 <p align="center">
-  <img alt="snake animation" src="https://github.com/sayedio/SayedSheikh/blob/output/snake.svg" />
+  <img alt="pacman contribution animation" src="https://github.com/sayedio/SayedSheikh/blob/output/pacman-contribution-graph-dark.svg" />
 </p>
 
-<!-- Snake animation requires GitHub Actions workflow: generate-snake.yml -->
+<!-- Pacman animation requires GitHub Actions workflow: generate-pacman.yml -->
