@@ -1,4 +1,8 @@
-import requests, os, json, math
+import os
+import re
+from datetime import datetime, timedelta
+
+import requests
 
 USERNAME = os.environ.get("GITHUB_USERNAME", "SayedSheikh")
 TOKEN    = os.environ.get("GITHUB_TOKEN", "")
@@ -24,14 +28,51 @@ query($login: String!) {
 def fetch_contributions():
     headers = {"Authorization": f"Bearer {TOKEN}"}
     payload = {"query": GRAPHQL_QUERY, "variables": {"login": USERNAME}}
+  try:
     r = requests.post("https://api.github.com/graphql",
-                      json=payload, headers=headers)
+              json=payload, headers=headers, timeout=20)
     r.raise_for_status()
     data = r.json()
     calendar = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]
     total    = calendar["totalContributions"]
     weeks    = calendar["weeks"]
     return total, weeks
+  except Exception:
+    return fetch_contributions_public()
+
+
+def fetch_contributions_public():
+  url = f"https://github.com/users/{USERNAME}/contributions"
+  r = requests.get(url, timeout=20)
+  r.raise_for_status()
+
+  rect_pattern = re.compile(r'data-date="([0-9]{4}-[0-9]{2}-[0-9]{2})"[^>]*data-count="([0-9]+)"')
+  days = []
+  total = 0
+  for match in rect_pattern.finditer(r.text):
+    day_date = match.group(1)
+    count = int(match.group(2))
+    total += count
+    days.append({"date": day_date, "contributionCount": count})
+
+  if not days:
+    raise RuntimeError("Unable to parse public contribution calendar")
+
+  def sunday_start(date_text):
+    day = datetime.strptime(date_text, "%Y-%m-%d").date()
+    return day - timedelta(days=(day.weekday() + 1) % 7)
+
+  weeks_map = {}
+  for day in days:
+    week_start = sunday_start(day["date"])
+    weeks_map.setdefault(week_start, []).append(day)
+
+  weeks = []
+  for week_start in sorted(weeks_map):
+    contribution_days = sorted(weeks_map[week_start], key=lambda item: item["date"])
+    weeks.append({"contributionDays": contribution_days})
+
+  return total, weeks
 
 
 def compute_buildings(weeks):
