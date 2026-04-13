@@ -28,7 +28,7 @@ jobs:
       - name: Generate city SVG
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: SayedSheikh
+          GITHUB_USERNAME: ${{ github.repository_owner }}
         run: python scripts/generate_city.py
 
       - name: Commit and push SVG
