@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Sayed banner" src="https://capsule-render.vercel.app/api?type=venom&height=285&section=header&reversal=true&color=0:020617,22:172554,48:0ea5e9,76:22d3ee,100:a78bfa&text=SAYED&fontAlign=50&fontAlignY=52&fontSize=98&fontColor=f8fafc&stroke=e2e8f0&strokeWidth=1.5" />
+  <img alt="Sayed coding banner" src="assets/coder-banner.svg" />
 </p>
 
 <p align="center">
