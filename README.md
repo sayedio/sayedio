@@ -6,10 +6,10 @@
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=700&speed=30&color=1d4ed8&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;JavaScript+Enthusiast;React+%26+Node.js+Builder;Open-Source+Contributor;CSE+Undergrad" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sayedio&base=1000&color=1d4ed8&style=for-the-badge" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/sayedio?style=for-the-badge&color=334155" />
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/sayedio?affiliations=OWNER,COLLABORATOR&style=for-the-badge&color=1f2937" />
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/sayedio?affiliations=OWNER,COLLABORATOR&style=for-the-badge&color=1f2937" /> -->
 </p>
 
 <p align="center">
