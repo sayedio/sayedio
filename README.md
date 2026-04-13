@@ -1,59 +1,63 @@
-![Banner](https://raw.githubusercontent.com/SayedSheikh/SayedSheikh/main/artwork.png)
-
-# Sayed Sheikh — Full Stack Developer.
-
-🚀 Passionate Full Stack Developer | CSE Undergrad | Open-source Contributor | JavaScript Enthusiast.
-
----
-
-## 💫 About Me
-I'm Sayed Sheikh, a self-driven Full Stack Developer from Bangladesh with a passion for building clean, functional, and scalable web applications. Currently pursuing a BSc in CSE, I love working with JavaScript technologies, contributing to open-source, and solving real-world problems through code.
-
----
-
-## 🚀 Current Activities
-- 🌐 Exploring **Next.js** and **server-side rendering**
-- 🧭 Building a **E-commerce Website** with dynamic content
-- 🔄 Learning about.
-**Authentication & Role-Based Routing**
-- 💼 Contributing to **Arclane** - a building management platform.
-- 🧪 Learning **Unit Testing** with Jest and React Testing Library..
-
----
-
-## 🧠 Skills
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-
----
-
-## 🌐 Connect With Me.
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/SayedSheikh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayed-sheikh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sayedsheikh9@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sayed.sheikh.413765)
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SayedSheikh&theme=radical&hide_border=false&count_private=true" alt="Sayed's GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SayedSheikh&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img alt="Sayed coding banner" src="assets/coder-banner.svg" />
 </p>
 
+<p align="center">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=700&speed=30&color=1d4ed8&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;JavaScript+Enthusiast;React+%26+Node.js+Builder;Open-Source+Contributor;CSE+Undergrad" />
+</p>
 
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sayedio&base=1000&color=1d4ed8&style=for-the-badge" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/sayedio?style=for-the-badge&color=334155" />
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/sayedio?affiliations=OWNER,COLLABORATOR&style=for-the-badge&color=1f2937" />
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/sayedio" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" height="34" src="https://img.shields.io/static/v1?label=&message=GitHub&color=121011&logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/sayed-sheikh" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" height="34" src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:sayedsheikh9@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Gmail" height="34" src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.facebook.com/sayed.sheikh.413765" target="_blank" rel="noopener noreferrer">
+    <img alt="Facebook" height="34" src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&logo=facebook&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
-## 🔝 Top Contributed Repos
-![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=SayedSheikh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img alt="Tech stack row 1" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap&perline=9" />
+</p>
 
----
+<p align="center">
+  <img alt="Tech stack row 2" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,java,c,cpp,docker&perline=9" />
+</p>
 
-## ✍️ Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img alt="Tech stack row 3" src="https://skillicons.dev/icons?i=aws,gcp,netlify,vercel,git,github,vscode,npm,linux,postman&perline=10" />
+</p>
 
+<p align="center">
+  <img alt="React Ecosystem" src="https://img.shields.io/badge/React%20Ecosystem-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="REST API Design" src="https://img.shields.io/badge/REST%20API%20Design-0f766e?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Authentication & Auth Flow" src="https://img.shields.io/badge/Authentication%20%26%20Auth%20Flow-1d4ed8?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img alt="Unit Testing" src="https://img.shields.io/badge/Unit%20Testing-c0392b?style=for-the-badge&logo=jest&logoColor=white" />
+  <img alt="Full Stack Architecture" src="https://img.shields.io/badge/Full%20Stack%20Architecture-334155?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img alt="AI & LLM" src="https://img.shields.io/badge/AI%20%26%20LLM-1d4ed8?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-<!-- Proudly created with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=sayedio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<p align="center">
+  <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sayedio&bg_color=0d1117&color=7aa2f7&line=2ac3de&point=bb9af7&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="snake animation" src="https://github.com/sayedio/SayedSheikh/blob/output/snake.svg" />
+</p>
+
+<!-- Snake animation requires GitHub Actions workflow: generate-snake.yml -->
