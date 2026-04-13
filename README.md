@@ -67,7 +67,7 @@
 <br/>
 
 <p align="center">
-  <img alt="snake animation" src="https://github.com/sayedio/SayedSheikh/blob/output/snake.svg" />
+  <img alt="pacman contribution animation" src="https://github.com/sayedio/SayedSheikh/blob/output/pacman-contribution-graph-dark.svg" />
 </p>
 
-<!-- Snake animation requires GitHub Actions workflow: generate-snake.yml -->
+<!-- Pacman animation requires GitHub Actions workflow: generate-pacman.yml -->
