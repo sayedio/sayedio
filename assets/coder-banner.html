@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sayed Sheikh - Full Stack Developer</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        background: #000;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+      @keyframes bgShift {
+        0% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: 0% 50%;
+        }
+      }
+
+      @keyframes glowBreath {
+        0%,
+        100% {
+          opacity: 0.38;
+        }
+        50% {
+          opacity: 0.6;
+        }
+      }
+
+      @keyframes namePulse {
+        0%,
+        100% {
+          opacity: 1;
+          filter: brightness(1);
+        }
+        50% {
+          opacity: 0.65;
+          filter: brightness(1.4);
+        }
+      }
+
+      @keyframes lineGlow {
+        0%,
+        100% {
+          opacity: 0.4;
+        }
+        50% {
+          opacity: 0.9;
+        }
+      }
+
+      .banner {
+        position: relative;
+        width: 1200px;
+        height: 320px;
+        display: flex;
+        align-items: center;
+        padding: 0;
+        border-radius: 20px;
+        overflow: hidden;
+        background: linear-gradient(
+          125deg,
+          #040b18 0%,
+          #071428 20%,
+          #08192e 35%,
+          #061223 50%,
+          #071933 65%,
+          #050e1f 80%,
+          #040b18 100%
+        );
+        background-size: 300% 300%;
+        animation: bgShift 18s ease infinite;
+      }
+
+      .grid-overlay {
+        position: absolute;
+        inset: 0;
+        background-image: radial-gradient(circle, #1d4ed8 1px, transparent 1px);
+        background-size: 28px 28px;
+        opacity: 0.055;
+        pointer-events: none;
+        border-radius: inherit;
+      }
+
+      .glow-layer {
+        position: absolute;
+        inset: 0;
+        background:
+          radial-gradient(
+            ellipse 38% 55% at 22% 50%,
+            #0d2a5e 0%,
+            transparent 70%
+          ),
+          radial-gradient(
+            ellipse 30% 45% at 78% 50%,
+            #081e42 0%,
+            transparent 65%
+          );
+        animation: glowBreath 7s ease-in-out infinite;
+        pointer-events: none;
+        border-radius: inherit;
+      }
+
+      .left {
+        flex: 0 0 auto;
+        padding: 0 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .left img {
+        width: 520px;
+        height: 244px;
+        object-fit: contain;
+        border-radius: 8px;
+      }
+
+      .right {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+        padding: 0 40px;
+      }
+
+      .name {
+        font-size: 58px;
+        font-weight: 800;
+        letter-spacing: 10px;
+        color: #60a5fa;
+        animation: namePulse 3s ease-in-out infinite;
+        margin: 0;
+      }
+
+      .divider {
+        width: 212px;
+        height: 1px;
+        background: #1d4ed8;
+        animation: lineGlow 2s ease-in-out infinite;
+      }
+
+      .subtitle {
+        font-size: 12px;
+        font-weight: 400;
+        letter-spacing: 4px;
+        color: #3b82f6;
+        margin: 0;
+      }
+
+      .dot {
+        position: absolute;
+        background: #1d4ed8;
+        opacity: 0.5;
+      }
+
+      .dot.top-left {
+        width: 5px;
+        height: 5px;
+        left: 12px;
+        top: 28px;
+        border-radius: 50%;
+      }
+      .dot.top-right {
+        width: 5px;
+        height: 5px;
+        right: 12px;
+        top: 28px;
+        border-radius: 50%;
+      }
+      .dot.bottom-left {
+        width: 3.6px;
+        height: 3.6px;
+        left: 20px;
+        bottom: 56px;
+        opacity: 0.35;
+      }
+      .dot.bottom-right {
+        width: 3.6px;
+        height: 3.6px;
+        right: 20px;
+        bottom: 56px;
+        opacity: 0.35;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="banner">
+      <div class="grid-overlay"></div>
+      <div class="glow-layer"></div>
+
+      <div class="left">
+        <img src="dev-working_rounded_clean.gif" alt="Developer animation" />
+      </div>
+
+      <div class="right">
+        <h1 class="name">SAYED</h1>
+        <div class="divider"></div>
+        <p class="subtitle">FULL STACK DEVELOPER</p>
+        <div class="dot top-left"></div>
+        <div class="dot top-right"></div>
+        <div class="dot bottom-left"></div>
+        <div class="dot bottom-right"></div>
+      </div>
+    </div>
+  </body>
+</html>
