@@ -67,7 +67,5 @@
 <br/>
 
 <p align="center">
-  <img alt="Contribution Aurora Wave" src="https://github.com/sayedio/SayedSheikh/blob/output/contribution-wave.svg" />
+  <img src="assets/city.svg" alt="Contribution City — SayedSheikh" width="100%"/>
 </p>
-
-<!-- Custom animation requires GitHub Actions workflow: generate-contribution-wave.yml -->
