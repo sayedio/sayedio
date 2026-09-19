@@ -55,7 +55,7 @@
 <br/>
 
 <p align="center">
-  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=sayedio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=sayedio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_bust=1" />
 </p>
 
 <br/>
