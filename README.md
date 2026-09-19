@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Sayed coding banner" src="assets/dev-working_rounded_clean.gif" />
+  <img alt="Sayed coding banner" height="150" src="assets/dev-working_rounded_clean.gif" />
 </p>
 
 <p align="center">
