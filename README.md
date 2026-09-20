@@ -1,15 +1,9 @@
 <p align="center">
-  <img alt="Sayed coding banner" height="300" src="assets/dev-working_rounded_clean.gif" />
+  <img alt="Sayed coding banner" width="100%" src="assets/readme-banner.svg" />
 </p>
 
 <p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=80&speed=50&deleteSpeed=42&cursor=true&cursorChar=%E2%96%8C&cursorColor=60a5fa&repeat=true&color=1d4ed8&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;JavaScript+Enthusiast;React+%26+Node.js+Builder;Open-Source+Contributor;CSE+Undergrad&v=4" />
-</p>
-
-<!-- <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sayedio&base=1000&color=1d4ed8&style=for-the-badge" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/sayedio?style=for-the-badge&color=334155" />
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/sayedio?affiliations=OWNER,COLLABORATOR&style=for-the-badge&color=1f2937" /> -->
+  <img alt="Hello, coders! I'm Sayed Sheikh" width="250" src="assets/hellocoders_rounded.gif" />
 </p>
 
 <p align="center">
@@ -61,13 +55,11 @@
 <br/>
 
 <p align="center">
-  <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sayedio&bg_color=0d1117&color=7aa2f7&line=2ac3de&point=bb9af7&area=true&hide_border=true" />
+  <img alt="GitHub activity graph" src="https://github-readme-activity-graphkayan.vercel.app/graph?username=sayedio&bg_color=0d1117&color=7aa2f7&line=2ac3de&point=bb9af7&area=true&hide_border=true" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img alt="pacman contribution animation" src="https://raw.githubusercontent.com/sayedio/SayedSheikh/output/pacman-contribution-graph-dark.svg" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sayedio&label=Profile%20Views&color=1d4ed8&style=for-the-badge" />
 </p>
-
-<!-- Pacman animation requires GitHub Actions workflow: generate-pacman.yml -->
