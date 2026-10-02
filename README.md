@@ -7,16 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sayedio">
+  <a href="https://github.com/sayedio" target="_blank" rel="noopener noreferrer">
     <img alt="GitHub" height="34" src="https://img.shields.io/static/v1?label=&message=GitHub&color=121011&logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/sayed-sheikh">
+  <a href="https://linkedin.com/in/sayed-sheikh" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" height="34" src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:sayedsheikh9@gmail.com">
+  <a href="mailto:sayedsheikh9@gmail.com" target="_blank" rel="noopener noreferrer">
     <img alt="Gmail" height="34" src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.facebook.com/sayed.sheikh.413765">
+  <a href="https://www.facebook.com/sayed.sheikh.413765" target="_blank" rel="noopener noreferrer">
     <img alt="Facebook" height="34" src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
 </p>
@@ -48,7 +48,6 @@
 
 <br/>
 
-<!-- Streak card: swap the host for your own Vercel deployment once it's live -->
 <p align="center">
   <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=sayedio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia/Dhaka" />
 </p>
@@ -56,8 +55,9 @@
 <br/>
 
 <p align="center">
-  <img alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sayedio&bg_color=0d1117&color=7aa2f7&line=2ac3de&point=bb9af7&area=true&hide_border=true" />
+  <img alt="GitHub activity graph" src="https://github-readme-activity-graphkayan.vercel.app/graph?username=sayedio&bg_color=0d1117&color=7aa2f7&line=2ac3de&point=bb9af7&area=true&hide_border=true" />
 </p>
+
 
 <br/>
 
