@@ -53,7 +53,7 @@
 </p> -->
 <!--previous provider (correct "since" date, but total/streak were badly stale):-->
 <p align="center">
-  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=sayedio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia/Dhaka" />
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=sayedio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia/Dhaka&v=2" />
 </p>
 
 
