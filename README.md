@@ -48,9 +48,6 @@
 
 <br/>
 
-<!-- <p align="center">
-  <img alt="GitHub streak stats" src="https://jeskei-readme-streak-stats.vercel.app?user=sayedio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia/Dhaka" />
-</p> -->
 
 <p align="center">
   <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=sayedio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia/Dhaka&v=2" />
