@@ -58,7 +58,7 @@
 <br/>
 
 <p align="center">
-  <img alt="GitHub activity graph" src="https://github-readme-activity-graphkayan.vercel.app/graph?username=sayedio&bg_color=0d1117&color=7aa2f7&line=2ac3de&point=bb9af7&area=true&hide_border=true&v=2" />
+  <img alt="GitHub activity graph" src="https://github-readme-activity-graphkayan.vercel.app/graph?username=sayedio&bg_color=0d1117&color=7aa2f7&line=2ac3de&point=bb9af7&area=true&hide_border=true" />
 </p>
 
 
