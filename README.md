@@ -55,7 +55,7 @@
 
 
 
-<!-- <br/>
+<br/>
 
 <p align="center">
   <img alt="GitHub activity graph" src="https://github-readme-activity-graphkayan.vercel.app/graph?username=sayedio&bg_color=0d1117&color=7aa2f7&line=2ac3de&point=bb9af7&area=true&hide_border=true" />
@@ -66,4 +66,4 @@
 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sayedio&label=Profile%20Views&color=1d4ed8&style=for-the-badge" />
-</p> -->
+</p>
