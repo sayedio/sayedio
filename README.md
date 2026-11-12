@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Sayed coding banner" width="100%" src="assets/readme-banner.svg" />
+  <img alt="Sayed Sheikh, Full-Stack Developer" width="100%" src="assets/readme-banner.svg" />
 </p>
 
 <p align="center">
@@ -22,6 +22,22 @@
 </p>
 
 <br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/about-me-dark.svg" />
+    <img alt="About Me. Full-Stack Developer, AI and Machine Learning Enthusiast, AI-Driven Solutions, Predictive Modeling and Deep Learning." width="100%" src="assets/about-me-light.svg" />
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/skills-heading-dark.svg" />
+    <img alt="Skills and Stack" width="100%" src="assets/skills-heading-light.svg" />
+  </picture>
+</p>
 
 <p align="center">
   <img alt="Tech stack row 1" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap&perline=9" />
