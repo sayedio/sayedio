@@ -21,16 +21,7 @@
   </a>
 </p>
 
-<br/>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/about-me-dark.svg" />
-    <img alt="About Me. Full-Stack Developer, AI and Machine Learning Enthusiast, AI-Driven Solutions, Predictive Modeling and Deep Learning." width="100%" src="assets/about-me-light.svg" />
-  </picture>
-</p>
-
-<br/>
+<!-- <br/> -->
 
 <p align="center">
   <picture>
@@ -65,6 +56,15 @@
 <br/>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/about-me-dark.svg" />
+    <img alt="About Me. Full-Stack Developer, AI and Machine Learning Enthusiast, AI-Driven Solutions, Predictive Modeling and Deep Learning." width="100%" src="assets/about-me-light.svg" />
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
   <img alt="GitHub streak stats" src="https://jeskei-readme-streak-stats.vercel.app?user=sayedio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia/Dhaka" />
 </p>
 <!-- previous provider (correct "since" date, but total/streak were badly stale):
@@ -73,13 +73,11 @@
 </p>
 -->
 
-
 <br/>
 
 <p align="center">
   <img alt="GitHub activity graph" src="https://github-readme-activity-graphkayan.vercel.app/graph?username=sayedio&bg_color=0d1117&color=7aa2f7&line=2ac3de&point=bb9af7&area=true&hide_border=true" />
 </p>
-
 
 <br/>
 
