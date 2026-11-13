@@ -23,21 +23,12 @@
 
 <br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/about-me-dark.svg" />
-    <img alt="About Me. Full-Stack Developer, AI and Machine Learning Enthusiast, AI-Driven Solutions, Predictive Modeling and Deep Learning." width="100%" src="assets/about-me-light.svg" />
-  </picture>
-</p>
-
-<br/>
-
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/skills-heading-dark.svg" />
     <img alt="Skills and Stack" width="100%" src="assets/skills-heading-light.svg" />
   </picture>
-</p>
+</p> -->
 
 <p align="center">
   <img alt="Tech stack row 1" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap&perline=9" />
@@ -60,6 +51,13 @@
   <img alt="Unit Testing" src="https://img.shields.io/badge/Unit%20Testing-c0392b?style=for-the-badge&logo=jest&logoColor=white" />
   <img alt="Full Stack Architecture" src="https://img.shields.io/badge/Full%20Stack%20Architecture-334155?style=for-the-badge&logo=databricks&logoColor=white" />
   <img alt="AI & LLM" src="https://img.shields.io/badge/AI%20%26%20LLM-1d4ed8?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/about-me-dark.svg" />
+    <img alt="About Me. Full-Stack Developer, AI and Machine Learning Enthusiast, AI-Driven Solutions, Predictive Modeling and Deep Learning." width="100%" src="assets/about-me-light.svg" />
+  </picture>
 </p>
 
 <br/>
