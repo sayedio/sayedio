@@ -21,14 +21,14 @@
   </a>
 </p>
 
-<!-- <br/> -->
+<br/>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/skills-heading-dark.svg" />
     <img alt="Skills and Stack" width="100%" src="assets/skills-heading-light.svg" />
   </picture>
-</p>
+</p> -->
 
 <p align="center">
   <img alt="Tech stack row 1" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap&perline=9" />
