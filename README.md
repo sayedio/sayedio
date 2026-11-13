@@ -55,23 +55,11 @@
 
 <br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/about-me-dark.svg" />
-    <img alt="About Me. Full-Stack Developer, AI and Machine Learning Enthusiast, AI-Driven Solutions, Predictive Modeling and Deep Learning." width="100%" src="assets/about-me-light.svg" />
-  </picture>
-</p>
 
-<br/>
-
-<p align="center">
-  <img alt="GitHub streak stats" src="https://jeskei-readme-streak-stats.vercel.app?user=sayedio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia/Dhaka" />
-</p>
-<!-- previous provider (correct "since" date, but total/streak were badly stale):
 <p align="center">
   <img alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=sayedio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia/Dhaka" />
 </p>
--->
+
 
 <br/>
 
